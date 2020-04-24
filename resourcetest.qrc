@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Prefix">
+    <file>Flag_of_Brazil.svg.png</file>
+    <file>logouffcompleto.png</file>
+    <file>PGEB UFF.png</file>
+    <file>logouff2.png</file>
+  </qresource>
+</RCC>

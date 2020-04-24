@@ -1,0 +1,23 @@
+O que é o SEDIM 2.0?
+
+O Sedim 2.0 é um código computacional concebido para calcular a vazão sólida do material do leito que se movimenta essencialmente por arraste (bed-load) e que se movimenta por arraste e suspensão (bed-material).
+
+As seguintes fórmulas estão dispoíveis:
+
+Laursen
+Engelund & Hansen
+Colby
+Ackers & White (D50)
+Ackers & White (D35)
+Yang Sand (D50)
+Yang Sand (FT)
+Yang Gravel (D50)
+Yang Gravel (FT)
+Yang Sand & Gravel
+Schoklitsch
+Kalinske
+Meyer-Peter & Muller
+Rottner
+
+Entrada de Dados
+Favor se referir ao Manual do usuário. Especial atenção para: ponto para o separador decimal, digitar o número zero para granulometria sem valor de porcentagem, nome do local é a referência para o nome do arquivo excel exportado (necessário preenchimento), seleção da unidade de medida (sistema métrico ou inglês) e a declividade pode ser inserida ou calculada.
